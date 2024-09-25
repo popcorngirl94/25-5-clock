@@ -3,7 +3,7 @@ import { IoArrowDownOutline } from "react-icons/io5";
 import { IoArrowUpOutline } from "react-icons/io5";
 import { CgPlayPauseO } from "react-icons/cg";
 import { LuTimerReset } from "react-icons/lu";
-import BeepSound from './audio/beep.mp3';
+import BeepSound from './audio/NT.mp3';
 import './App.css';
 
 const PomodoroTimer = () => {
